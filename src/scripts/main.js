@@ -1,4 +1,5 @@
 'use strict';
+// new Promise
 
 function waitFor(element, eventName) {
   return new Promise((resolve) => {
